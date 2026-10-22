@@ -1,0 +1,16 @@
+You start with a $100 balance.
+
+Enter your bet amount when prompted.
+
+The slot machine will spin 3 random symbols (🍒, 🍋, 🍊, 🍉, ⭐, 💎).
+
+If all 3 symbols match, you win a multiplier of your bet!
+
+Keep playing until you win big or run out of money!
+
+✨ Features
+Random Module: Uses Python's built-in random module to randomly pick symbols.
+
+Input Validation: Safely checks your bet to make sure it's a valid number.
+
+Balance Tracking: Automatically updates your cash balance after every spin.
